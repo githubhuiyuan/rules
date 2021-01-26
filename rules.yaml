@@ -1,7 +1,3 @@
 
 rules:
-  - DOMAIN-SUFFIX,google.com,auto
-  - DOMAIN-KEYWORD,google,auto
-  - DOMAIN,google.com,auto
-  - DOMAIN-SUFFIX,ad.com,REJECT
   - DOMAIN-SUFFIX,http://checkip.dyndns.com,DIRECT
